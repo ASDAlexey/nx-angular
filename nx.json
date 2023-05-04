@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "ng-angular",
+  "npmScope": "nx-angular",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx-cloud",
