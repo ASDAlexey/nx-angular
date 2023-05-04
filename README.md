@@ -12,5 +12,5 @@ yarn set version stable
 ### Yarn install errors
 - YARN_CHECKSUM_BEHAVIOR=update yarn
 
-###Nx commands
+### Nx commands
 - nx generate @nx/angular:library shared
