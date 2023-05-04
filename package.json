@@ -6,7 +6,8 @@
     "serve": "npx nx run ng-angular-app:serve",
     "serve:hmr": "npx nx run ng-angular-app:serve --hmr",
     "build:dev": "npx nx run ng-angular-app:build --configuration development",
-    "build:prod": "npx nx run ng-angular-app:build --configuration production"
+    "build:prod": "npx nx run ng-angular-app:build --configuration production",
+    "update-lock": "npm i --package-lock-only"
   },
   "private": true,
   "dependencies": {
