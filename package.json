@@ -2,7 +2,10 @@
   "name": "ng-angular",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "serve": "npx nx run ng-angular-app:serve",
+    "serve:hmr": "npx nx run ng-angular-app:serve --hmr"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~15.2.0",
